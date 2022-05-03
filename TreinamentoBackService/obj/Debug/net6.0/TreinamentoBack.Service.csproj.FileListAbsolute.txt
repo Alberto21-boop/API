@@ -1,0 +1,17 @@
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\bin\Debug\net6.0\TreinamentoBack.Service.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\bin\Debug\net6.0\TreinamentoBack.Service.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\bin\Debug\net6.0\TreinamentoBack.Service.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\bin\Debug\net6.0\TreinamentoBack.Entity.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\bin\Debug\net6.0\TreinamentoBack.Model.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\bin\Debug\net6.0\TreinamentoBack.Entity.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\bin\Debug\net6.0\TreinamentoBack.Model.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.csproj.CopyComplete
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\refint\TreinamentoBack.Service.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\TreinamentoBack.Service.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackService\obj\Debug\net6.0\ref\TreinamentoBack.Service.dll

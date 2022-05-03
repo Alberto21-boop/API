@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oouReHWRZnSY2Nete2FSuqHow6ve1Abu2S7pH2TUAEypK2UlQ0nSjRmfwMHalLLS3zVXizXO7tiAHKX/Wqcqaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Àlberto Barbòsa\\source\\repos\\Back.Database\\TreinamentoBack.Model\\TreinamentoBack.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Àlberto Barbòsa\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Àlberto Barbòsa\\.nuget\\packages\\dapper.simplecrud\\2.3.0\\dapper.simplecrud.2.3.0.nupkg.sha512",
+    "C:\\Users\\Àlberto Barbòsa\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\Àlberto Barbòsa\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\Àlberto Barbòsa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

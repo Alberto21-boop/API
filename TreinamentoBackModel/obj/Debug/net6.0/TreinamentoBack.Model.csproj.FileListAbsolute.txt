@@ -1,0 +1,12 @@
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\TreinamentoBack.Model.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\TreinamentoBack.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\TreinamentoBack.Model.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\TreinamentoBack.Model.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\TreinamentoBack.Model.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\bin\Debug\net6.0\TreinamentoBack.Model.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\bin\Debug\net6.0\TreinamentoBack.Model.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\bin\Debug\net6.0\TreinamentoBack.Model.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\TreinamentoBack.Model.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\refint\TreinamentoBack.Model.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\TreinamentoBack.Model.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackModel\obj\Debug\net6.0\ref\TreinamentoBack.Model.dll

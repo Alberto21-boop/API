@@ -1,0 +1,15 @@
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\bin\Debug\net6.0\TreinamentoBack.Entity.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\bin\Debug\net6.0\TreinamentoBack.Entity.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\bin\Debug\net6.0\TreinamentoBack.Entity.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\bin\Debug\net6.0\TreinamentoBack.Model.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\bin\Debug\net6.0\TreinamentoBack.Model.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.csproj.CopyComplete
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\refint\TreinamentoBack.Entity.dll
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\TreinamentoBack.Entity.pdb
+C:\Users\Àlberto Barbòsa\source\repos\Back.Database\TreinamentoBackEntity\obj\Debug\net6.0\ref\TreinamentoBack.Entity.dll
